@@ -2,6 +2,9 @@
 #include <fstream>
 #include<opencv2/opencv.hpp>
 
+// g++ -g -Wall -o out svm_hog.cpp `pkg-config opencv --libs --cflags`
+
+
 using namespace std;
 using namespace cv;
 
