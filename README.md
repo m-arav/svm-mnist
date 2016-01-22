@@ -8,9 +8,8 @@ A C++ program that trains and classifies handwritten digits
 
 # REQUIREMENTS
 
-~ g++ ( C++ Compiler )
-
-~ Opencv (2.4.x)
+- g++ ( C++ Compiler )
+- Opencv (2.4.x)
 
 # USAGE
 ```
